@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UI-Netclan</string>
+    <string name="add_button" />
+    <string name="button2_description" />
+    <string name="button4_description" />
+    <string name="add1_button" />
+    <string name="button7_description" />
+    <string name="button6_description" />
+    <string name="button5_description" />
+    <string name="add2_button" />
+</resources>

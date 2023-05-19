@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_item1"
+        android:title="Menu Item 1"
+        android:icon="@drawable/nav1"
+        android:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_item2"
+        android:title="Menu Item 2"
+        android:icon="@drawable/nav2"
+        android:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_item3"
+        android:title="Menu Item 3"
+        android:icon="@drawable/nav3"
+        android:showAsAction="ifRoom" />
+</menu>
